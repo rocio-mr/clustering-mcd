@@ -223,7 +223,9 @@ el algoritmo construye las relaciones entre puntos utilizando sus vecinos más c
 
 Esto permite identificar estructuras que pueden ser difíciles de encontrar mediante métodos basados únicamente en centroides.
 
-### 5. 📚 Resolución de interrogantes
+# 5. 📚 Resolución de interrogantes
+
+---
 
 **Determine qué modelo o modelos son de naturaleza lineal o no lineal, así como los hiperparámetros críticos para el entrenamiento exitoso.**
 
