@@ -202,9 +202,9 @@ Representación espectral
   │
   ▼
 Clustering
-
-Implementación:
 ```
+Implementación:
+
 ```python
 
 from sklearn.cluster import SpectralClustering
@@ -221,7 +221,9 @@ labels_spectral = spectral.fit_predict(X_escalado)
 
 Cuando se utiliza:
 
+```python
 affinity="nearest_neighbors"
+```
 
 el algoritmo construye las relaciones entre puntos utilizando sus vecinos más cercanos.
 
