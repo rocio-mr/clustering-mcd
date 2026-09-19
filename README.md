@@ -259,5 +259,10 @@ En el conjunto de datos de Circles, las métricas de validación externa nos mue
 Respecto a las métricas de validación interna, K-Means obtuvo un Silhouette Score de 0.354496, un Davies-Bouldin Index de 1.175980 y un índice de Calinski-Harabasz de 438.387614. DBSCAN y Spectral Clustering obtuvieron un Silhouette Score de 0.110755, un Davies-Bouldin Index de 331.956363 y un índice de Calinski-Harabasz de 438.387614. Por lo tanto, las métricas internas presentan valores más favorables para K-Means en Silhouette y Davies-Bouldin, mientras que los tres modelos presentan el mismo valor en Calinski-Harabasz.
 
 
-###By: Milesa Rocio Maquera Ramos
-**Link del Colab: https://colab.research.google.com/drive/1HxLkjYarlGqt2RV62Re1Knr7EUjgP84j?usp=sharing**
+## 👩‍💻 Autora:
+
+> **Milesa Rocio Maquera Ramos**
+
+🔗 **Notebook en Google Colab:**
+[🚀 Abrir y ejecutar el proyecto en Colab](https://colab.research.google.com/drive/1HxLkjYarlGqt2RV62Re1Knr7EUjgP84j?usp=sharing)
+
