@@ -188,7 +188,7 @@ Una ventaja importante de DBSCAN es su capacidad para detectar **clusters de for
 Spectral Clustering utiliza una representación basada en un grafo de similitud entre los datos.
 
 Conceptualmente:
-
+ ```text
 Datos
   │
   ▼
@@ -204,6 +204,8 @@ Representación espectral
 Clustering
 
 Implementación:
+```
+```python
 
 from sklearn.cluster import SpectralClustering
 
@@ -214,6 +216,8 @@ spectral = SpectralClustering(
 )
 
 labels_spectral = spectral.fit_predict(X_escalado)
+
+```
 
 Cuando se utiliza:
 
